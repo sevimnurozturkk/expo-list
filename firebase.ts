@@ -8,7 +8,7 @@ const firebaseConfig = {
   apiKey: 'AIzaSyBhLeDy0qo6Tkj-noBxqrNi9y3s9CplLzI',
   authDomain: 'expo-auth-9b283.firebaseapp.com',
   projectId: 'expo-auth-9b283',
-  storageBucket: 'expo-auth-9b283.firebasestorage.app',
+  storageBucket: 'expo-auth-9b283.appspot.com',
   messagingSenderId: '912492367959',
   appId: '1:912492367959:web:971c16977df61518b75312',
   measurementId: 'G-V8FJ8H7FMF',
